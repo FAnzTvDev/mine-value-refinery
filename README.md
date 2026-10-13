@@ -28,4 +28,4 @@ Label facts VERIFIED, OWNER-REPORTED, UNVERIFIED or PLANNED. Never invent metric
 MINE is independent and not affiliated with or endorsed by Anthropic, OpenAI, Google, xAI, Microsoft, GitHub, Cursor, Meta, Nous Research or OpenClaw. Names belong to their owners.
 
 ## License
-Not yet set. Until the owner adds a LICENSE file, all rights are reserved.
+MIT. See LICENSE. The MINE name, wordmark and the Value Refinery Playbook are not included in this license.
